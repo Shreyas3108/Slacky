@@ -41,7 +41,7 @@ after which ,Open the terminal and type this command
 >$   python manage.py runserver
        
 You could then go to the login page by going to this URL
-(http://127.0.0.1:8000/login.html)
+(http://127.0.0.1:8000/login)
 
 Use the credentials to access the database :- 
 user :- shrey2 
