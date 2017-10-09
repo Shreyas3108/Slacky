@@ -51,7 +51,7 @@ Just searching randomly!
 ## How to use :- 
 ---
 First clone the repository onto your computer by using this command. 
-   ```$ git clone https://github.com/Shreyas3108/Slacky```
+   ```$ git clone https://github.com/Shreyas3108/Slacky.git```
 
 
 after which ,Open the terminal and type this command 
