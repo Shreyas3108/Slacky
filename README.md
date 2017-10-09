@@ -28,12 +28,14 @@ First clone the repository onto your computer by using this command.
 
 
 after which ,Open the terminal and type this command 
-```cd socmed
-   source bin/activate
-   cd src
-   python manage.py makemigarations 
-   python manage.py migrate
-   python manage.py runserver ```
+``` $ cd socmed'''
+    $  source bin/activate
+    $   cd src```
+    
+   ``` python manage.py makemigarations 
+       python manage.py migrate
+       python manage.py runserver```
+       
    
 You could then go to the login page by going to this URL
 (http://127.0.0.1:8000/login.html)
