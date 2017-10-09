@@ -15,37 +15,37 @@ A twitter-like site built for seemingless discussions within an organization or 
 
 ## Use Case :- 
 ---
-[https://github.com/Shreyas3108/Slacky/blob/master/usecase.png]
+![usecase](https://github.com/Shreyas3108/Slacky/blob/master/usecase.png)
 
 
 ## Working :- 
 The first page is the login page where credentials are used :- 
 
-(login page)[https://github.com/Shreyas3108/Slacky/blob/master/output/login.png]
+![login page](https://github.com/Shreyas3108/Slacky/blob/master/output/login.png)
 
 After signing in , the home page is displayed at first. 
 
-(home page)[https://github.com/Shreyas3108/Slacky/blob/master/output/home.png]
+![home page](https://github.com/Shreyas3108/Slacky/blob/master/output/home.png)
 
 The working can be seen by adding the tweet "Time to say Cheese #hashtag Cheese!
 
-(Cheese!)[https://github.com/Shreyas3108/Slacky/blob/master/output/homewithtweet.png]
+![Cheese!](https://github.com/Shreyas3108/Slacky/blob/master/output/homewithtweet.png)
 
 The profile page after clicking the user below the tweet (logged in from another id) 
 
-(Profile) [https://github.com/Shreyas3108/Slacky/blob/master/output/profilepage.png]
+![Profile](https://github.com/Shreyas3108/Slacky/blob/master/output/profilepage.png)
 
 Let's Follow! 
 
-(New Follower!)[https://github.com/Shreyas3108/Slacky/blob/master/output/followadd.png]
+![New Follower!](https://github.com/Shreyas3108/Slacky/blob/master/output/followadd.png)
 
 Retweeting the tweet! 
-[https://github.com/Shreyas3108/Slacky/blob/master/output/retweetresult.png]
+![Retweet!](https://github.com/Shreyas3108/Slacky/blob/master/output/retweetresult.png)
 
 Just searching randomly! 
 
-[https://github.com/Shreyas3108/Slacky/blob/master/output/searchoverall.png]
-[https://github.com/Shreyas3108/Slacky/blob/master/output/searchtweet.png]
+![Search overall](https://github.com/Shreyas3108/Slacky/blob/master/output/searchoverall.png)
+![Specific](https://github.com/Shreyas3108/Slacky/blob/master/output/searchtweet.png)
 
 
 ## How to use :- 
@@ -75,6 +75,11 @@ user :- shrey2
 password :- github1234 
 
 You could create more users too! and start posting. 
+
+## Known Bugs :- 
+---
+1. For the purpose of extension (not a complete site yet) few links haven't been assigned. 
+2. Reply function doesn't work and needs integration with the file inside. 
 
 ## Future Extensions :- 
 ----
